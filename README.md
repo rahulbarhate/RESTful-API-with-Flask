@@ -60,7 +60,7 @@ GET, POST, PUT, DELETE operations using a RESTful API on a list which comtains l
 <img src = "./images/delete1.png">
 
 
-#### List of languages after deleting C++
+#### List of languages after deleting 'C++'
 
 
 <img src = "./images/delete2.png">
